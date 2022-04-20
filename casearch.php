@@ -250,7 +250,7 @@ if ($_SESSION["no"]>0){?>
 
 
   <!-- FOOTER -->
-  <footer class="container fixed-bottom">
+  <footer class="container navbar-fixed-bottom">
   <hr class="featurette-divider">
     <p class="float-end"><a href="#"><img src="https://img.icons8.com/flat-round/344/collapse-arrow--v1.png" style="height:20px;"></a></p>
     <p>&copy; 國立中山大學 NSYSU, 資管所 DBProject_Group 9</p>
